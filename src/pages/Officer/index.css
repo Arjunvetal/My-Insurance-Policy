@@ -1,0 +1,42 @@
+
+body {
+    background: #eee;
+    font-family: Assistant, sans-serif
+}
+
+.progressBar{
+    width: auto;
+    height: auto;
+}
+
+.cell-1 {
+    border-collapse: separate;
+    border-spacing: 0 4em;
+    background: #fff;
+    border-bottom: 5px solid transparent;
+    background-clip: padding-box
+}
+
+thead {
+    background: #dddcdc
+}
+
+#but {
+    padding-right: 10px;
+}
+
+#img {
+    width: 100%;
+    height: 100%;
+}
+
+#doc {
+    width: 200%;
+    height: 200%;
+}
+
+
+#ss {
+    margin-left: 20%;
+    align-content: space-around;
+}
